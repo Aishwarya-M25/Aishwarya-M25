@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Aishwarya
+## Hi there 👋 I'm Aishwarya M
 
 <!--
 **Aishwarya-M25/Aishwarya-M25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
